@@ -1,9 +1,9 @@
 const config = {
-  host: "remotemysql.com",
-  user: "tFTutQcYEI",
-  database: "tFTutQcYEI",
-  password: "wTQn56pf4r",
-  port: 3306 // optional
+  host: "db4free.net",
+  user: "fernando_n",
+  database: "fernando_n",
+  password: "sixbF2b5H6URY_@",
+  port: 3306, // optional
 };
 
 module.exports = config;
