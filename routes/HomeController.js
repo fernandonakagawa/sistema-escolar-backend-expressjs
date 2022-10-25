@@ -8,6 +8,6 @@
 */
 module.exports = {
   async index(request, response) {
-    return response.json("{'nome':'Fernando'}");
-  }
+    return response.json({ nome: "Fernando" });
+  },
 };
